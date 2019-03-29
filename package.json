@@ -1,0 +1,14 @@
+{
+  "name": "questbot",
+  "version": "1.0.0",
+  "description": "bot that lets you make code",
+  "main": "bot.js",
+  "author": "JP",
+  "dependencies": {
+    "better-sqlite3": "^5.3.0",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.7.1",
+    "winston": "^3.1.0"
+  }
+}
